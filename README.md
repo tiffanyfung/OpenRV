@@ -1,4 +1,6 @@
 # Open RV
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiffanyfung%2FOpenRV.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiffanyfung%2FOpenRV?ref=badge_shield)
+
 Open RV is an image and sequence viewer for VFX and animation artists.
 Open RV is high-performant, hardware accelerated, and pipeline-friendly.
 
@@ -85,3 +87,7 @@ pre-commit install
 
 > **Important:** When the hooks reformat a file, you need to re-add them to git to have your `git commit` command executed.
 > Also, you can skip the hook execution by using `git commit -n`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiffanyfung%2FOpenRV.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiffanyfung%2FOpenRV?ref=badge_large)
